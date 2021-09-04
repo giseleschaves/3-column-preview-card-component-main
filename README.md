@@ -17,8 +17,8 @@ Users should be able to:
 
 ### Screenshot
 
-- Mobile [!Screenshot mobile](./design/mobile-screenshot.png)
-- Desktop [!Screenshot desk](./design/desktop-screenshot.png)
+![Screenshot mobile](./design/mobile-screenshot.png)
+![Screenshot desktop](./design/desk-screenshot.png)
 
 ### Links
 
